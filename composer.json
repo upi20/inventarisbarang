@@ -1,5 +1,14 @@
 {
+    "name": "iseplutpi/ideto.co.id",
+    "authors": [
+        {
+            "name": "Isep Lutpi Nur",
+            "email": "iseplutpinur7@gmail.com"
+        }
+    ],
     "require": {
-        "dompdf/dompdf": "^0.8.3"
+        "phpoffice/phpspreadsheet": "^1.18",
+        "chriskacerguis/codeigniter-restserver": "dev-master",
+        "matthiasmullie/minify": "^1.3"
     }
 }
